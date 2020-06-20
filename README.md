@@ -93,8 +93,8 @@ Response:
 ## Database Models used
 
 #### User:<br/>
-User models is Django pre-defined user model. <br/>
-Having additional Fields as follow <br/>
+User models is a simple Django model. <br/>
+Having Fields as follows <br/>
 * id  
 * real_name 
 * tz for timezone 

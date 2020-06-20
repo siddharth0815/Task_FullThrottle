@@ -19,4 +19,7 @@ This is a Production ready Django Web Application having Django-Rest API that se
 Currently Hosted at PythonAnywhere server: http://siddharth0815.pythonanywhere.com/
 <br/>
 
+![](https://github.com/siddharth0815/Task_FullThrottle/blob/images/screencapture-siddharth0815-pythonanywhere-users-2020-06-20-23_16_58.png)
+<br/>
+<br/>
 
